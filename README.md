@@ -21,7 +21,7 @@
 
   <h3>Programming languages</h3>
   <p>
-    JavaScript ( ES5, ES6, TypeScript ), Dart
+    JavaScript ( ES5, ES6, TypeScript ), Dart, Rust
   </p>
 
   <h3>Working technologies</h3>
