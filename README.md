@@ -1,5 +1,5 @@
 <div>
-  <h1>Dmitriy Maksimyk</h1>
+  <h1>Dmitry Maximyuk</h1>
   <p>⚒️ Front-end Developer</br>🎂 23.02.2004</br>🌐 Perm, Russia</h3>
 <div>
 
