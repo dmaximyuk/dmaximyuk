@@ -1,7 +1,6 @@
 # Hi there! 👋
 
-I'm a **Frontend Developer** with a passion for creating optimized, maintainable, and user-friendly web applications.  
-💻 I've been working in web development since **2019**, and professionally in the industry since **2021**.  
+I'm a **Frontend Developer** with a passion for creating optimized, maintainable, and user-friendly web applications. 
 🎩 My experience spans working in high-load projects, collaborating with large teams, and tackling legacy codebases.  
 🚀 I’ve also contributed to the **Web3** space and developed **Telegram Mini Apps** and **VK Mini Apps**, demonstrating versatility and adaptability across different platforms.
 
